@@ -17,7 +17,6 @@
 // limitations under the License.
 
 #![allow(unused_attributes)]
-#![rustfmt::skip]
 
 use crate::errors::{PayloadError, PayloadErrorKind};
 use std::str;

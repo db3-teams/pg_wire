@@ -11,7 +11,6 @@
 // by the Apache License, Version 2.0.
 
 #![allow(unused_attributes)]
-#![rustfmt::skip]
 
 use pg_wire_payload::{PgFormat, PgType};
 

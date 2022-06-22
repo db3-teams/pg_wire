@@ -17,8 +17,6 @@
 // limitations under the License.
 
 #![allow(unused_attributes)]
-#![rustfmt::skip]
-
 use crate::{
     cursor::Cursor,
     errors::{MessageFormatError, MessageFormatErrorKind},
